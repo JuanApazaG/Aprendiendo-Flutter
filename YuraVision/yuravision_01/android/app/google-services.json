@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023907057330",
+    "project_id": "proyecto2025-9480b",
+    "storage_bucket": "proyecto2025-9480b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023907057330:android:fa3aa5bc1fc626ce9643ab",
+        "android_client_info": {
+          "package_name": "com.yuravision.incuba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv5RD7pitvI7p3flh16J6f8HRvifGa870"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

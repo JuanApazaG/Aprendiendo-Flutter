@@ -1,4 +1,4 @@
-package com.example.yuravision_01
+package com.yuravision.incuba
 
 import io.flutter.embedding.android.FlutterActivity
 
